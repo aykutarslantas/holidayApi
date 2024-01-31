@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+body {
+    font-family: 'Noto Sans', sans-serif!important;
+}
+
+
+.form-check-input {
+    width: 1.5em!important;
+    height: 1.5em!important;
+}
+
+
+.btn-purple {
+    background-color: #5e39a3!important;
+    border-color: #5e39a3!important;
+    color: white!important;
+}
+
+.btn-purple:hover {
+    background-color: #5a34a3!important;
+    border-color: #5a34a3!important;
+    color: white!important;
+}
+
+.form-check-input-purple:checked {
+    background-color: #5e39a3!important;
+    border-color: #5e39a3!important;
+}
+
+.form-check-input-purple:focus {
+    border-color: #5e39a3!important;
+    box-shadow: 0 0 0 0.25rem rgba(111, 66, 193, 0.25)!important;
+}
+
+.btn-p-lg {
+    padding-left: 3.2em!important;
+    padding-right: 3.2em!important;
+    padding-top: 0.75em!important;
+    padding-bottom: 0.75em!important;
+}
+
+.top-btn {
+    border-color: none!important;
+    font-weight: lighter;
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    text-decoration: none;
+    color: black;
+}
+
+.active {
+    background-color: rgb(240, 240, 240)!important;
+    border: none!important;
+    color: rgb(0, 0, 0)!important;
+    font-weight: bolder!important;
+
+}
